@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-Contains the "class_to_json" function
-"""
+"""serialize an object"""
 
 
 def class_to_json(obj):
