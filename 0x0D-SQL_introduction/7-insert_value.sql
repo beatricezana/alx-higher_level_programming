@@ -1,2 +1,5 @@
--- all trhe rows of the first_table.
-SELECT FROM * 'first_table';
+-- insert a new row in table of given database
+-- database passed as argument
+INSERT INTO `first_table`(
+	id, name) VALUES (
+	89, 'Best School');
