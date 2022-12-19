@@ -1,5 +1,5 @@
 #!/usr/bin/node
 
-const entry = process.argv;
+const values = process.argv;
 
-console.log(entry[2], 'is', entry[3]);
+console.log(values[2] + ' is ' + values[3]);
